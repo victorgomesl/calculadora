@@ -1,7 +1,7 @@
-Projeto
-Calculadora básica para testar habilidades.
+<span>Projeto<span>
+<p>Calculadora básica para testar habilidades.</p>
 
-🛠️ Construído com
-HTML
-CSS
+🛠️ Construído com<br>
+HTML<br>
+CSS<br>
 JavaScript
